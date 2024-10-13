@@ -25,16 +25,16 @@ import java.util.stream.Stream;
 public class DataInitializer implements CommandLineRunner {
 
   public static final UUID WAYNE_USER_IDENTIFIER =
-      UUID.fromString("c47641ee-e63c-4c13-8cd2-1c2490aee0b3");
+      UUID.fromString("5c256072-2c3e-4027-bb29-d7599ab66e9a");
   public static final UUID BANNER_USER_IDENTIFIER =
-      UUID.fromString("69c10574-9064-40e4-85bd-5c68547f3f48");
+      UUID.fromString("544665fd-cc49-4f50-88d1-2330bd182b92");
   public static final UUID SERVICE_USER_IDENTIFIER =
       UUID.fromString("2cdd02c8-4fc0-4dc0-8e6a-00eeb2fa7c94");
 
   public static final UUID CURATOR_IDENTIFIER =
-      UUID.fromString("40c5ad0d-41f7-494b-8157-33fad16012aa");
+      UUID.fromString("85e772db-1753-4937-a69d-1a2361968811");
   public static final UUID ADMIN_IDENTIFIER =
-      UUID.fromString("0d2c04f1-e25f-41b5-b4cd-3566a081200f");
+      UUID.fromString("6899bf18-ebc4-496b-8b4e-17b5be781268");
 
   public static final UUID BOOK_CLEAN_CODE_IDENTIFIER =
       UUID.fromString("f9bf70d6-e56d-4cab-be6b-294cd05f599f");
