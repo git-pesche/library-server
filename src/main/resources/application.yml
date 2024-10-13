@@ -23,7 +23,7 @@ logging:
   level:
     org:
       springframework:
-        security: debug
+        security: trace
 server:
   error:
     include-stacktrace: never
